@@ -1,0 +1,147 @@
+/* _content/Fruitables.PL/Areas/DashBoard/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-a72k3s7inv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-a72k3s7inv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-a72k3s7inv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-a72k3s7inv], .nav-pills .show > .nav-link[b-a72k3s7inv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-a72k3s7inv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-a72k3s7inv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-a72k3s7inv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-a72k3s7inv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-a72k3s7inv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Fruitables.PL/Areas/Identity/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-3e5wgpp9do] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-3e5wgpp9do] {
+  color: #0077cc;
+}
+
+.btn-primary[b-3e5wgpp9do] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-3e5wgpp9do], .nav-pills .show > .nav-link[b-3e5wgpp9do] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-3e5wgpp9do] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-3e5wgpp9do] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-3e5wgpp9do] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-3e5wgpp9do] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-3e5wgpp9do] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Fruitables.PL/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-g6gbyu6jtx] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-g6gbyu6jtx] {
+  color: #0077cc;
+}
+
+.btn-primary[b-g6gbyu6jtx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-g6gbyu6jtx], .nav-pills .show > .nav-link[b-g6gbyu6jtx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-g6gbyu6jtx] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-g6gbyu6jtx] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-g6gbyu6jtx] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-g6gbyu6jtx] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-g6gbyu6jtx] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

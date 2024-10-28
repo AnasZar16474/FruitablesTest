@@ -1,0 +1,9 @@
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.csproj.AssemblyReference.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.AssemblyInfoInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.AssemblyInfo.cs
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.csproj.CoreCompileInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.MvcApplicationPartsAssemblyInfo.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.RazorAssemblyInfo.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.RazorAssemblyInfo.cs
+G:\Mvc\Fruitables\Fruitables\Fruitables.PL\obj\Release\net8.0\Fruitables.PL.sourcelink.json

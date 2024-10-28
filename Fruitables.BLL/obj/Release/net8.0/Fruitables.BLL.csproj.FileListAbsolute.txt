@@ -1,0 +1,16 @@
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\bin\Release\net8.0\Fruitables.BLL.deps.json
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\bin\Release\net8.0\Fruitables.BLL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\bin\Release\net8.0\Fruitables.BLL.pdb
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\bin\Release\net8.0\Fruitables.DAL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\bin\Release\net8.0\Fruitables.DAL.pdb
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.csproj.AssemblyReference.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.AssemblyInfoInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.AssemblyInfo.cs
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.csproj.CoreCompileInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.sourcelink.json
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitabl.7663CA44.Up2Date
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\refint\Fruitables.BLL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\Fruitables.BLL.pdb
+G:\Mvc\Fruitables\Fruitables\Fruitables.BLL\obj\Release\net8.0\ref\Fruitables.BLL.dll

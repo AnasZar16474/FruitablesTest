@@ -1,0 +1,21 @@
+﻿@model CouponDeleteVM
+@section MainHeader {
+    Delete
+}
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title"> Delete </h3>
+        </div>
+        <div class="card-body">
+            <p class="footer danger">Are you Sure to Delete @Model.Code</p>
+        </div>
+        <div class="card-footer">
+            <form asp-controller="Coupons" asp-action="DeletedConfirmed">
+                <input type="hidden" asp-for="Id" />
+                <input type="submit" class="btn btn-danger" value="Delete" />
+                <a class="btn btn-secondary" asp-controller="Coupons" asp-action="Display">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,239 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Fruitables.PL
+build_property.RootNamespace = Fruitables.PL
+build_property.ProjectDir = G:\Mvc\Fruitables\Fruitables\Fruitables.PL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Mvc\Fruitables\Fruitables\Fruitables.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Coupons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXENvdXBvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Coupons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXENvdXBvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Coupons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXENvdXBvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Coupons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXENvdXBvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXE9yZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Products/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFByb2R1Y3RzXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfU2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/ChangeRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcQ2hhbmdlUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/RoleView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcUm9sZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Accounts/UsersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudHNcVXNlcnNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Home/_searchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfc2VhcmNoUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/Home/_HeroSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWVcX0hlcm9TZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/ShopDetails/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcERldGFpbHNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/ShopDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/DashBoard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaEJvYXJkXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-a72k3s7inv
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Areas/Identity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3e5wgpp9do
+
+[G:/Mvc/Fruitables/Fruitables/Fruitables.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6gbyu6jtx

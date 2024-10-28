@@ -1,0 +1,54 @@
+
+@model CompositLogInVM
+@using Microsoft.AspNetCore.Authentication
+
+@{
+    ViewData["Title"] = "LogIn";
+}
+
+<h1>LogIn</h1>
+
+<div class="row">
+    <!-- تسجيل الدخول باستخدام البريد الإلكتروني وكلمة المرور -->
+    <div class="col-md-6">
+        <h3>LogIn with Email</h3>
+        <form asp-action="LogIn" asp-controller="Accounts">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LogIn.Email" class="control-label"></label>
+                <input asp-for="LogIn.Email" class="form-control" />
+                <span asp-validation-for="LogIn.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LogIn.Password" class="control-label"></label>
+                <input asp-for="LogIn.Password" class="form-control" />
+                <span asp-validation-for="LogIn.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="LogIn.RememberMe" />
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="LogIn" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <div>
+            <a asp-controller="Accounts" asp-action="ForgotPassword">Forgot Password?</a>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h3>LogIn with Google</h3>
+        @if (Model?.LogInWithGoogle?.ReturnUrl != null)
+        {
+            <form asp-controller="Accounts" asp-action="ExternalLogin" asp-route-returnUrl="@Model.LogInWithGoogle.ReturnUrl" method="post">
+                <button type="submit" class="btn btn-primary" name="provider" value="Google">Sign in with Google</button>
+            </form>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

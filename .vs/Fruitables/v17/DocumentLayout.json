@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mvc\\Fruitables\\Fruitables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0767B935-3703-4EF1-8B1F-EFDFFED79BB5}|Fruitables.PL\\Fruitables.PL.csproj|g:\\mvc\\fruitables\\fruitables\\fruitables.pl\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0767B935-3703-4EF1-8B1F-EFDFFED79BB5}|Fruitables.PL\\Fruitables.PL.csproj|solutionrelative:fruitables.pl\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEABA85-3451-45CF-B09D-811E6DF77FC1}|Fruitables.BLL\\Fruitables.BLL.csproj|g:\\mvc\\fruitables\\fruitables\\fruitables.bll\\fruitables.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFEABA85-3451-45CF-B09D-811E6DF77FC1}|Fruitables.BLL\\Fruitables.BLL.csproj|solutionrelative:fruitables.bll\\fruitables.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "G:\\Mvc\\Fruitables\\Fruitables\\Fruitables.PL\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Fruitables.PL\\Controllers\\BaseController.cs",
+              "ToolTip": "G:\\Mvc\\Fruitables\\Fruitables\\Fruitables.PL\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Fruitables.PL\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:24:44.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fruitables.BLL",
+              "DocumentMoniker": "G:\\Mvc\\Fruitables\\Fruitables\\Fruitables.BLL\\Fruitables.BLL.csproj",
+              "RelativeDocumentMoniker": "Fruitables.BLL\\Fruitables.BLL.csproj",
+              "ToolTip": "G:\\Mvc\\Fruitables\\Fruitables\\Fruitables.BLL\\Fruitables.BLL.csproj",
+              "RelativeToolTip": "Fruitables.BLL\\Fruitables.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T20:24:33.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

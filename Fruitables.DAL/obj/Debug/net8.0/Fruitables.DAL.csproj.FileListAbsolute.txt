@@ -1,0 +1,14 @@
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\bin\Debug\net8.0\Fruitables.DAL.deps.json
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\bin\Debug\net8.0\Fruitables.DAL.runtimeconfig.json
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\bin\Debug\net8.0\Fruitables.DAL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\bin\Debug\net8.0\Fruitables.DAL.pdb
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.csproj.AssemblyReference.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.AssemblyInfoInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.AssemblyInfo.cs
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.csproj.CoreCompileInputs.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\refint\Fruitables.DAL.dll
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.pdb
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\Fruitables.DAL.genruntimeconfig.cache
+G:\Mvc\Fruitables\Fruitables\Fruitables.DAL\obj\Debug\net8.0\ref\Fruitables.DAL.dll

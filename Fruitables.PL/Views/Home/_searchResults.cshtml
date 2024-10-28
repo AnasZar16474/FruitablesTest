@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ProductsVM>
+
+@if (!Model.Any())
+{
+    <p>لم يتم العثور على نتائج.</p>
+}
+else
+{
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>@product.Name - @product.Price</li>
+        }
+    </ul>
+}
